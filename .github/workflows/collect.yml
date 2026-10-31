@@ -43,8 +43,13 @@ jobs:
           git add data
           if git diff --cached --quiet; then
             echo "변경 없음"
-          else
-            git commit -m "data $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull --rebase
-            git push
+            exit 0
           fi
+          git commit -m "data $(date -u +%Y-%m-%dT%H:%MZ)"
+          if ! git pull --rebase; then
+            git rebase --abort
+            git reset --hard "@{u}"
+            echo "충돌: 이번 실행분을 버립니다. 다음 실행이 다시 수집합니다."
+            exit 0
+          fi
+          git push
