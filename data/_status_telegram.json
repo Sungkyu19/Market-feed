@@ -1,98 +1,91 @@
 {
-  "run_at": "2026-10-31T20:08:25.065987+09:00",
+  "run_at": "2026-10-31T20:12:14.684382+09:00",
   "channels": {
-    "aetherjapanresearch": {
-      "ok": false,
-      "posts": 0,
-      "new": 0,
-      "last_success": null,
-      "error": "게시물을 읽지 못했습니다(비공개이거나 미리보기가 막힌 채널일 수 있음)"
-    },
     "insidertracking": {
       "ok": true,
       "posts": 19,
       "new": 0,
-      "last_success": "2026-10-31T20:08:25.065987+09:00",
+      "last_success": "2026-10-31T20:12:14.684382+09:00",
       "error": null
     },
     "corevalue": {
       "ok": true,
       "posts": 20,
       "new": 0,
-      "last_success": "2026-10-31T20:08:25.065987+09:00",
+      "last_success": "2026-10-31T20:12:14.684382+09:00",
       "error": null
     },
     "yeouidostory2": {
       "ok": true,
       "posts": 19,
       "new": 0,
-      "last_success": "2026-10-31T20:08:25.065987+09:00",
+      "last_success": "2026-10-31T20:12:14.684382+09:00",
       "error": null
     },
     "bornlupin": {
       "ok": true,
       "posts": 20,
       "new": 0,
-      "last_success": "2026-10-31T20:08:25.065987+09:00",
+      "last_success": "2026-10-31T20:12:14.684382+09:00",
       "error": null
     },
     "yeouido_lab": {
       "ok": true,
       "posts": 20,
       "new": 0,
-      "last_success": "2026-10-31T20:08:25.065987+09:00",
+      "last_success": "2026-10-31T20:12:14.684382+09:00",
       "error": null
     },
     "gaoshoukorea": {
       "ok": true,
       "posts": 20,
       "new": 0,
-      "last_success": "2026-10-31T20:08:25.065987+09:00",
+      "last_success": "2026-10-31T20:12:14.684382+09:00",
       "error": null
     },
     "faststocknewsusa": {
       "ok": true,
       "posts": 18,
       "new": 0,
-      "last_success": "2026-10-31T20:08:25.065987+09:00",
+      "last_success": "2026-10-31T20:12:14.684382+09:00",
       "error": null
     },
     "tazastock": {
       "ok": true,
       "posts": 20,
       "new": 0,
-      "last_success": "2026-10-31T20:08:25.065987+09:00",
+      "last_success": "2026-10-31T20:12:14.684382+09:00",
       "error": null
     },
     "growthresearch": {
       "ok": true,
       "posts": 19,
       "new": 0,
-      "last_success": "2026-10-31T20:08:25.065987+09:00",
+      "last_success": "2026-10-31T20:12:14.684382+09:00",
       "error": null
     },
     "ym_research": {
       "ok": true,
       "posts": 20,
       "new": 0,
-      "last_success": "2026-10-31T20:08:25.065987+09:00",
+      "last_success": "2026-10-31T20:12:14.684382+09:00",
       "error": null
     },
     "shmstory": {
       "ok": true,
       "posts": 20,
       "new": 0,
-      "last_success": "2026-10-31T20:08:25.065987+09:00",
+      "last_success": "2026-10-31T20:12:14.684382+09:00",
       "error": null
     },
     "kwusa": {
       "ok": true,
       "posts": 20,
       "new": 0,
-      "last_success": "2026-10-31T20:08:25.065987+09:00",
+      "last_success": "2026-10-31T20:12:14.684382+09:00",
       "error": null
     }
   },
-  "last_success": null,
+  "last_success": "2026-10-31T20:12:14.684382+09:00",
   "new_total": 0
 }
