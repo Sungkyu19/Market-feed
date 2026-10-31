@@ -14,7 +14,6 @@
   },
 
   "telegram_channels": [
-    {"id": "aetherjapanresearch", "name": "에테르의 일본&미국 리서치"},
     {"id": "insidertracking", "name": "미국 주식 인사이더"},
     {"id": "corevalue", "name": "가치투자클럽"},
     {"id": "yeouidostory2", "name": "여의도스토리 Ver2.0"},
