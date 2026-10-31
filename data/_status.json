@@ -1,0 +1,21 @@
+{
+  "run_at": "2026-10-31T19:36:31.423825+09:00",
+  "sources": {
+    "dart": {
+      "ok": false,
+      "fetched": 0,
+      "new": 0,
+      "last_success": null,
+      "error": "DART 인증키가 없습니다 (DART_API_KEY)"
+    },
+    "edgar": {
+      "ok": false,
+      "fetched": 0,
+      "new": 0,
+      "last_success": null,
+      "error": "SEC_USER_AGENT 에 이름과 이메일을 적어야 합니다 (예: 'Hong Gildong hong@example.com')"
+    }
+  },
+  "last_success": null,
+  "new_total": 0
+}
