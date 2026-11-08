@@ -1,18 +1,18 @@
 {
-  "run_at": "2026-11-09T01:15:27.488757+09:00",
+  "run_at": "2026-11-09T02:12:18.003059+09:00",
   "sources": {
     "dart": {
-      "ok": true,
-      "fetched": 2,
+      "ok": false,
+      "fetched": 0,
       "new": 0,
       "last_success": "2026-11-09T01:15:27.488757+09:00",
-      "error": null
+      "error": "HTTPSConnectionPool(host='opendart.fss.or.kr', port=443): Max retries exceeded with url: /api/list.json?crtfc_key=3f0d6a6255f003570269c124ea7b6802bc30993e&bgn_de=20261108&end_de=20261109&page_no=1&page_count=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='opendart.fss.or.kr', port=443) at "
     },
     "edgar": {
       "ok": true,
       "fetched": 315,
       "new": 0,
-      "last_success": "2026-11-09T01:15:27.488757+09:00",
+      "last_success": "2026-11-09T02:12:18.003059+09:00",
       "error": null
     }
   },
