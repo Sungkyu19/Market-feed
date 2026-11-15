@@ -1,19 +1,19 @@
 {
-  "run_at": "2026-11-15T21:50:32.771221+09:00",
+  "run_at": "2026-11-15T22:53:14.740095+09:00",
   "sources": {
     "dart": {
       "ok": true,
       "fetched": 0,
       "new": 0,
-      "last_success": "2026-11-15T21:50:32.771221+09:00",
+      "last_success": "2026-11-15T22:53:14.740095+09:00",
       "error": null
     },
     "edgar": {
-      "ok": true,
-      "fetched": 320,
+      "ok": false,
+      "fetched": 0,
       "new": 0,
       "last_success": "2026-11-15T21:50:32.771221+09:00",
-      "error": null
+      "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=20)"
     }
   },
   "last_success": "2026-11-15T21:50:32.771221+09:00",
