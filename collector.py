@@ -291,7 +291,7 @@ def run(cfg, only=None, now=None, fetchers=None):
                                        "last_success": collected_at.isoformat(), "error": None}
         except Exception as e:  # 한 소스의 실패가 다른 소스를 막지 않게 한다
             status["sources"][name] = {"ok": False, "fetched": 0, "new": 0,
-                                       "last_success": old.get("last_success"), "error": str(e)[:300]}
+                                       "last_success": old.get("last_success"), "error": re.sub(r"(crtfc_key|Subscription-Key)=[^&\s]+", r"\1=***", str(e))[:300]}
 
     # 파일을 먼저 쓰고, 성공한 뒤에만 '본 공시' 기록을 갱신한다 (유실 방지)
     if new_items:
