@@ -1,22 +1,22 @@
 {
-  "run_at": "2026-11-25T11:57:19.502133+09:00",
+  "run_at": "2026-11-25T13:03:50.049664+09:00",
   "sources": {
     "dart": {
       "ok": true,
       "fetched": 264,
-      "new": 29,
-      "last_success": "2026-11-25T11:57:19.502133+09:00",
+      "new": 7,
+      "last_success": "2026-11-25T13:03:50.049664+09:00",
       "error": null
     },
     "edgar": {
       "ok": true,
-      "fetched": 335,
+      "fetched": 315,
       "new": 0,
-      "last_success": "2026-11-25T11:57:19.502133+09:00",
+      "last_success": "2026-11-25T13:03:50.049664+09:00",
       "error": null
     }
   },
-  "file": "feed_20261125_1157.jsonl",
-  "last_success": "2026-11-25T11:57:19.502133+09:00",
-  "new_total": 29
+  "file": "feed_20261125_1303.jsonl",
+  "last_success": "2026-11-25T13:03:50.049664+09:00",
+  "new_total": 7
 }
